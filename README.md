@@ -7,6 +7,9 @@ Python-en garatutako pasahitz kudeatzailea, enkriptazioa eta SQLite datu-basea e
 - SQLite datu-basea erabiltzen du.
 - Enkriptazioa `cryptography` liburutegia erabiliz.
 
+## Oharra
+**Proiektu hau amaitu gabe dago.** Funtzio gehiago gehitzeko eta hobetzeko lanetan ari gara.
+
 ## Instalazioa
 
 1. Klonatu biltegia:
